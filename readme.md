@@ -5,18 +5,32 @@ Built With
 HTML
 CSS
 
-Screenshot (images/screenshot.png)
+![screenshot](./image/Screenshot.png)
 
-Live Demo(https://raw.githack.com/arslanbisharat/smashing-magzine-page/main-project/index.html)
+Use of vectors of the icon on signup with css and all of the page it's responsive.
 
-Authors
-👤 Muhammad Arslan
+## Built With
 
+- HTML, CSS.
+## Live Demo
 
-🤝 Contributing
+[Live Demo Link](https://raw.githack.com/arslanbisharat/smashing-magzine-page/main-project/index.html)
+
+## Authors
+
+👤 **Muhammad Arslan**
+
+- Github: [@githubhandle](https://github.com/arslanbisharat)
+- Twitter: [@twitterhandle](https://twitter.com/arslan_bisharat)
+- Linkedin: [linkedin](https://www.linkedin.com/in/muhammad-arslan-2020bb156)
+
+## 🤝 Contributing
+
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/arslanbisharat/smashing-magzine-page/issues).
 
-Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
+
