@@ -4,7 +4,8 @@ In this simple project, we breake apart the website for a popular design magazin
 Built With
 HTML
 CSS
-Screenshot(images/screenshot.png)
+
+Screenshot (images/screenshot.png)
 
 Live Demo(https://raw.githack.com/arslanbisharat/smashing-magzine-page/main-project/index.html)
 
