@@ -5,7 +5,7 @@ Built With
 HTML
 CSS
 
-![screenshot](images/Screenshot.png)
+![screenshot](images/screenshot.png)
 
 Use of vectors of the icon on signup with css and all of the page it's responsive.
 
